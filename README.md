@@ -1,3 +1,5 @@
+[![Tests](https://github.com/kortik0/Eventinator/actions/workflows/tests.yml/badge.svg)](https://github.com/kortik0/Eventinator/actions/workflows/tests.yml)
+
 # Eventinator
 
 Небольшой сервис для приёма вебхуков. Берёт HTTP от Forgejo (и потенциально от чего угодно ещё), приводит к одному формату и кидает в NATS.
